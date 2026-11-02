@@ -119,5 +119,5 @@ M1.1: добавлена регистрация и вход по email
 ## Ссылки
 
 - Дизайн в Figma: [открыть макет](https://www.figma.com/design/rtwWpZs9rsHwPn9GKSjxgL/%D0%9F%D0%9F-7%D1%81%D0%B5%D0%BC?m=auto&t=6vyUNvQIaT39m5tz-1)
-- Доска задач: _вставить ссылку на GitHub Project_
+- Доска задач: 
 - Документация 1 этапа: папка [`docs/`](docs/)
